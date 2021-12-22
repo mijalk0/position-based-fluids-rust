@@ -1,6 +1,10 @@
 # position-based-fluids-rust
 Position Based Fluids implemented in Rust, method from Müeller and Macklin 2013
 
+# Preview
+
+![](https://github.com/mijalk0/position-based-fluids-rust/blob/master/writeup/images/simulation_end.png)
+
 # Install Rust
 
 Ensure `rustc` and `cargo` are installed. If running Unix/Linux/MacOS, issue
